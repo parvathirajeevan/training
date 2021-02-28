@@ -1,0 +1,4 @@
+Host xxxxx
+  HostName xx.xx.xx.xx
+  User ec2-user
+  IdentityFile "xx.pem"
