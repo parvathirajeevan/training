@@ -24,4 +24,4 @@ scrape_configs:
     # scheme defaults to 'http'.
 
     static_configs:
-      - targets: ['ip-10-0-0-43.ec2.internal:9090']
+      - targets: ['ip-10-0-0-30.ec2.internal:9090']
